@@ -1,0 +1,3 @@
+Embeddings: Sentence-BERT – For high-quality sentence embeddings, particularly for similarity search and recommendation tasks.
+Text Classification: RoBERTa – For top-tier performance in general text classification tasks.
+Sentiment Classification: DistilBERT – For fast and accurate sentiment analysis, with less computational cost.
